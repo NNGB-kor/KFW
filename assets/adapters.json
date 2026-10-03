@@ -1,0 +1,13 @@
+{
+  "Makefile": [
+    "8c4a845e8d401a0930094c8eae0a8cbdc0e445aecf85f1e186df95db9f63d1dc",
+    "d3cede41ea2499baf0dd59226b2d6101cf586a534bd1a3bb188a7d5a98645516"
+  ],
+  "src/rp2040/Makefile": [
+    "49c029778e684f0d729e6f9448ef5c70fe6b9d7c1eb6499274012a6198db61b3",
+    "aadf342d59379b57ba70862c7df155b556d9276eaa947691fa6d3f1b95e6343f"
+  ],
+  "src/stm32/Makefile": [
+    "978de3fe9a29deec8a1f16ad1583dcce0dab3354799e33faa0eaa5cc98d300d6"
+  ]
+}
